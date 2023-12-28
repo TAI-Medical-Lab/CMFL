@@ -26,6 +26,19 @@ mechanism, ensuring clients’ contributions. The effectiveness
 of CMFL has been demonstrated through exhibiting superior
 performance, augmented collaboration equity, and enhanced
 performance fairness in comparison to previous works.
+# Contributions
+we offer the following contributions:
+• We propose a method for cross-modality medical data
+in FL, CMFL, contributing collaboration fairness facilitation and performance fairness enhancement and further
+optimizing both fairness trade-offs concurrently.
+• We propose a novel hierarchical contribution rectification scheme based on the diverse spaces derived from
+cross-modality data and integrate an adaptive equilibrium
+mechanism to ensure clients’ contributions.
+• We extensively evaluate CMFL on Head and Neck
+Squamous Cell Carcinoma (HNSCC) and Whole Body
+Fluorodeoxyglucose (WB-FDG) datasets and find that
+it outperforms several state-of-the-art FL methods. Our
+analysis demonstrates the effectiveness of CMFL in improving collaboration and performance fairness.
 # Dataset
 HNSCC：https://wiki.cancerimagingarchive.net/display/Public/HNSCC
 
